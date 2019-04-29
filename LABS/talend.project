@@ -98,6 +98,19 @@
       <relatedItems xmi:id="_BkDDymomEemEtJiINsQOkg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_BkDDy2omEemEtJiINsQOkg" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_tKPAEGonEemEtJiINsQOkg">
+      <baseItem xmi:id="_tKPAEWonEemEtJiINsQOkg" id="_r4JGEGonEemEtJiINsQOkg" version="0.1" type="job"/>
+      <relatedItems xmi:id="_tKPAEmonEemEtJiINsQOkg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAE2onEemEtJiINsQOkg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAFGonEemEtJiINsQOkg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAFWonEemEtJiINsQOkg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAFmonEemEtJiINsQOkg" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAF2onEemEtJiINsQOkg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAGGonEemEtJiINsQOkg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAGWonEemEtJiINsQOkg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAGmonEemEtJiINsQOkg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_tKPAG2onEemEtJiINsQOkg" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_t2WxIGolEemEtJiINsQOkg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_t2WxIWolEemEtJiINsQOkg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_t2WxImolEemEtJiINsQOkg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
